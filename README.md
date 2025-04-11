@@ -52,20 +52,12 @@ A complete data analytics project that monitors, processes, and visualizes real-
 
 
 
-> `./screenshots/dashboard_preview.png`  
-Add a few screenshots from Power BI dashboard, ETL terminal, or SQL view
+> 
 
 ---
 
 ## 🔗 Project Links
 
 - [LinkedIn Post – Part 1: ETL Process](https://www.linkedin.com/in/yourprofile) *(Update once posted)*
-- [Power BI Dashboard (Optional)](https://drive.google.com/your-dashboard-link) *(If hosted externally)*
 
----
 
-## 📝 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/real-time-air-quality-dashboard.git
