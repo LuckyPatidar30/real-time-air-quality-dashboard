@@ -52,8 +52,8 @@ A complete data analytics project that monitors, processes, and visualizes real-
 
 
 
-> 
-
+> [Preview of dashboard](./airdashboard.png)
+[Preview of dashboard](./airrdashboard.png)
 ---
 
 ## 🔗 Project Links
